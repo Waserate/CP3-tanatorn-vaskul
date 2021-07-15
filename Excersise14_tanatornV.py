@@ -1,4 +1,3 @@
-
 def login():
     username = input("Username : ")
     Password = input("Password : ")
@@ -39,6 +38,3 @@ if login():
 else:
     print("try again")
      
-  
-
-
